@@ -170,7 +170,7 @@ a{
 .border{
 
 
-    border-radius: 0px;
+    border-radius: 0;
     width: 479px;
     height: 284px;
     left: 138px;
@@ -181,7 +181,7 @@ a{
 .us img{
     position: absolute;
     width: 431px;
-    height: 716.53px;
+    height: 716px;
     left: 175px;
     top: 1000px;
 
@@ -249,14 +249,13 @@ a{
 
 }
 #story{
-    padding-top: ;
+    padding-top: 100px;
 }
 
 
 .story{
     display: flex;
     justify-content:space-between ;
-    ;
 }
 .title h1{
     font-family: 'Plus Jakarta Sans',sans-serif;
@@ -279,7 +278,7 @@ a{
     font-weight: 400;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.99);
-    padding-top: 15px 0;
+    padding-top: 15px ;
 }
 .font p{
     font-family: 'Roboto',sans-serif;
